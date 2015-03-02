@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME103: Thermodynamics"
+course_description: "An detailed introduction to thermodynamics, or the study of energy. Topics include energy conservation, thermodynamic quantities, enthalpy and entropy, work and heat, entropy generation, flow systems, and thermodynamic cycles."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Energy Transfer Through Work, Heat, and Mass** <span
 id="3"></span> 
 *For our purposes, energy is a substance that has the potential to

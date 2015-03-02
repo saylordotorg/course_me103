@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME103: Thermodynamics"
+course_description: "An detailed introduction to thermodynamics, or the study of energy. Topics include energy conservation, thermodynamic quantities, enthalpy and entropy, work and heat, entropy generation, flow systems, and thermodynamic cycles."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Introduction to Power Cycles** <span id="6"></span> 
 *This last unit of the course will introduce you to power cycles as a
 means of explaining how the concepts we have learned thus far relate to

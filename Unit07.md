@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME103: Thermodynamics"
+course_description: "An detailed introduction to thermodynamics, or the study of energy. Topics include energy conservation, thermodynamic quantities, enthalpy and entropy, work and heat, entropy generation, flow systems, and thermodynamic cycles."
+next: ../../../
+previous: ../Unit06
+---
 **Unit 7: Final Exam** <span id="7"></span> 
 -   **Final Exam: The Saylor Foundation's ME103 Final Exam**
     Link: The Saylor Foundation's [ME103 Final

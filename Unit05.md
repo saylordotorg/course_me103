@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME103: Thermodynamics"
+course_description: "An detailed introduction to thermodynamics, or the study of energy. Topics include energy conservation, thermodynamic quantities, enthalpy and entropy, work and heat, entropy generation, flow systems, and thermodynamic cycles."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Second Law of Thermodynamics** <span id="5"></span> 
 *This unit will introduce the concept of entropy, or the “uncertainty”
 of a system.  A system’s entropy—along with its temperature—can be used

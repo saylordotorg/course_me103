@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME103: Thermodynamics"
+course_description: "An detailed introduction to thermodynamics, or the study of energy. Topics include energy conservation, thermodynamic quantities, enthalpy and entropy, work and heat, entropy generation, flow systems, and thermodynamic cycles."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: First Law of Thermodynamics** <span id="4"></span> 
 *Thermodynamics operates according to two main laws.  In this unit, we
 will take an in-depth look at the first of these, which states that

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME103: Thermodynamics"
+course_description: "An detailed introduction to thermodynamics, or the study of energy. Topics include energy conservation, thermodynamic quantities, enthalpy and entropy, work and heat, entropy generation, flow systems, and thermodynamic cycles."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Properties of Pure Substances** <span id="2"></span> 
 *The simplest thermodynamic situations involve “pure substances.”  Pure
 substances are single, uncontaminated substances that have not been
