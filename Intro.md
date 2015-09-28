@@ -126,3 +126,4 @@ assignments, and assessments.
 - [Unit 5](https://legacy.saylor.org/me103/Unit05/)
 - [Unit 6](https://legacy.saylor.org/me103/Unit06/)
 - [Unit 7](https://legacy.saylor.org/me103/Unit07/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ME/ME103/ME103-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ME/ME103/ME103-FinalExam-Answers.html)
