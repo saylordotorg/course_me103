@@ -54,7 +54,7 @@ Upon successful completion of this unit, the student will be able to:
     Thermodynamics”**
     Link: Queen's Universtiy: Professor G. Ciccarelli’s Lecture Notes on
     Applied Thermodynamics: [“Lecture 1: Introduction to
-    Thermodynamics”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME103-1.1.1_Ciccarcelli_Introduction-to-Thermodynamics.pdf)
+    Thermodynamics”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103-1.1.1_Ciccarcelli_Introduction-to-Thermodynamics.pdf)
     (PDF)  
       
      Instructions: Please download the PDF files for Lecture 1 and read
@@ -99,7 +99,7 @@ Upon successful completion of this unit, the student will be able to:
     Thermodynamics”**
     Link: University of Notre Dame: Professor J. M. Powers’ Lecture
     Notes on Thermodynamics: [“Chapter 1: Introduction to
-    Thermodynamics”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME103_Powers-Lecture-on-Thermodynamics.pdf) (PDF)  
+    Thermodynamics”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103_Powers-Lecture-on-Thermodynamics.pdf) (PDF)  
         
      Instructions:  Please read pages 1–15.  The reading will provide
     you with some historical perspective on the field of thermodynamics.
@@ -121,7 +121,7 @@ Upon successful completion of this unit, the student will be able to:
     Thermodynamics”**
     Link: Queen’s University, Canada: Professor G. Ciccarelli’s Lecture
     Notes on Applied Thermodynamics: [“Lecture 1: Introduction to
-    Thermodynamics”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME103-1.1.1_Ciccarcelli_Introduction-to-Thermodynamics.pdf)
+    Thermodynamics”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103-1.1.1_Ciccarcelli_Introduction-to-Thermodynamics.pdf)
     (PDF)  
       
      Instructions: Please download the PDF files for Lectures 1-2 and
@@ -140,7 +140,7 @@ Upon successful completion of this unit, the student will be able to:
     Definitions”**
     Link: University of Notre Dame: Professor J. M. Powers’ Lecture
     Notes on Thermodynamics: [“Chapter 1: Introduction to
-    Thermodynamics”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME103_Powers-Lecture-on-Thermodynamics.pdf) (PDF)  
+    Thermodynamics”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103_Powers-Lecture-on-Thermodynamics.pdf) (PDF)  
         
      Instructions: Please read section 2.4 and browse through the rest
     of Chapter 2.  What is meant by surrounding and universe?  What is a
@@ -216,11 +216,11 @@ the U.S. Customary System of Units (UCSU).**
     “Thermodynamics: Homework A – Set 1”**
     Link: University of South Florida: Dr. Carlos A. Smith’s
     [“Thermodynamics: Homework A – Set
-    1”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME103-Assesment1.pdf) (PDF)  
+    1”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103-Assesment1.pdf) (PDF)  
         
      Instructions: Please attempt all questions in the assessment. You
     can find the answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2013/01/ME103-Assesment1Answers.pdf)
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103-Assesment1Answers.pdf)
     (PDF).  
         
      Terms of Use: This resource is used with the kind permission of Dr.
@@ -249,14 +249,14 @@ the U.S. Customary System of Units (UCSU).**
 
 -   **Assessment: The Saylor Foundation’s “Unit 1 Assessment”**
     Link: The Saylor Foundation’s “[Unit 1
-    Assessment](http://www.saylor.org/site/wp-content/uploads/2012/08/ME103-OC-Assessment-1-FINAL.pdf)”
+    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME103-OC-Assessment-1-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above and download the
     assessment. Work through all problems and write down your answers.
      Read the instructions for each problem carefully.  Once you
     complete the assessment, compare your answers with the "[Guide to
-    Responding](http://www.saylor.org/site/wp-content/uploads/2012/08/ME103-OC-Assessment-1-GTR-FINAL.pdf)”
+    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME103-OC-Assessment-1-GTR-FINAL.pdf)”
     (PDF).  This assessment will cover all topics discussed in Unit 1.
 
 
