@@ -64,7 +64,7 @@ Upon successful completion of this unit, the student will be able to:
     Thermodynamics”**
     Link: North Carolina State University: Professor Boles’ Lecture
     Notes on Thermodynamics: [“Chapter 4: The First Law of
-    Thermodynamics”](http://www.saylor.org/site/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter4.pdf)
+    Thermodynamics”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter4.pdf)
     (PDF)  
         
      Instructions: Please click on “Study Guide for Chapter 4.”  Please
@@ -82,13 +82,13 @@ Upon successful completion of this unit, the student will be able to:
     Link: Ohio State University: Israel Urieli’s *Engineering
     Thermodynamics - A Graphical Approach*: [“Chapter 3a: The Energy
     Equation for Closed
-    Systems”](http://www.saylor.org/site/wp-content/uploads/2013/04/ME103-4.1-TheEnergyEquationforClosedSystems.pdf) (PDF),
+    Systems”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ME103-4.1-TheEnergyEquationforClosedSystems.pdf) (PDF),
     [“Chapter 3b: Ideal Stirling Cycle Machines (Engines /
-    Coolers)”](http://www.saylor.org/site/wp-content/uploads/2013/04/ME103-4.1-IdealStirlingCycleMachines.pdf) (PDF),
+    Coolers)”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ME103-4.1-IdealStirlingCycleMachines.pdf) (PDF),
     [“Chapter 3c: The Air-Standard Diesel Cycle (Compression-Ignition)
-    Engine”](http://www.saylor.org/site/wp-content/uploads/2013/04/ME103-4.1-TheAirStandardDieselCycle.pdf) (PDF),
+    Engine”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ME103-4.1-TheAirStandardDieselCycle.pdf) (PDF),
     and [“Chapter 3d: The Air-Standard Otto Cycle (Spark-Ignition)
-    Engine”](http://www.saylor.org/site/wp-content/uploads/2013/04/ME103-4.1-TheAirStandardOttoCycleSparkIgnitionEngine.pdf) (PDF)  
+    Engine”](https://resources.saylor.org/archived/wp-content/uploads/2013/04/ME103-4.1-TheAirStandardOttoCycleSparkIgnitionEngine.pdf) (PDF)  
       
      Instructions: Read these articles. Links to examples at the end of
     each document illustrate the concepts involved for a few
@@ -142,7 +142,7 @@ Upon successful completion of this unit, the student will be able to:
     Thermodynamics”**
     Link: North Carolina State University: Professor Boles’ Lecture
     Notes on Thermodynamics: [“Chapter 4: The First Law of
-    Thermodynamics”](http://www.saylor.org/site/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter4.pdf)
+    Thermodynamics”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter4.pdf)
     (PDF)  
         
      Instructions: Please click on “Study Guide for Chapter 4.”  Please
@@ -161,7 +161,7 @@ Upon successful completion of this unit, the student will be able to:
     Thermodynamics”**
     Link: North Carolina State University: Professor Boles’ Lecture
     Notes on Thermodynamics: [“Chapter 4: The First Law of
-    Thermodynamics”](http://www.saylor.org/site/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter4.pdf)
+    Thermodynamics”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter4.pdf)
     (PDF)  
       
      Instructions: Please click on “Study Guide for Chapter 4.”  Please
@@ -178,7 +178,7 @@ id="4.3"></span> 
     Thermodynamics”**
     Link: North Carolina State University: Professor Boles’ Lecture
     Notes on Thermodynamics: [“Chapter 4: The First Law of
-    Thermodynamics”](http://www.saylor.org/site/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter4.pdf)
+    Thermodynamics”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter4.pdf)
     (PDF)  
         
      Instructions: Please click on “Study Guide for Chapter 4.”  Please
@@ -217,12 +217,12 @@ id="4.3"></span> 
     “Thermodynamics: Homework A – Set 3”**
     Link: University of South Florida's Dr. Carlos A. Smith’s
     [“Thermodynamics: Homework A – Set
-    3”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME103-4.3.6_Assesment.pdf)
+    3”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103-4.3.6_Assesment.pdf)
     (HTML)  
         
      Instructions: Please attempt all questions in teh assessment.  You
     can find the answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2013/01/ME103-4.3.6_Assesment_Answers.pdf)
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103-4.3.6_Assesment_Answers.pdf)
     (PDF).  
         
      Terms of Use: This resource is used with the kind permission of Dr.
@@ -237,12 +237,12 @@ id="4.3"></span> 
     Link: Queen’s University, Canada: Professor G. Ciccarelli’s Lecture
     Notes on Applied Thermodynamics: [“Lectures 14-15: Control Volume
     Energy Analysis:
-    Applications”](http://www.saylor.org/site/wp-content/uploads/2013/01/ME103-4.4_Ciccarcelli_Introduction-to-Thermodynamics_Lecture-14-15.pdf)
+    Applications”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103-4.4_Ciccarcelli_Introduction-to-Thermodynamics_Lecture-14-15.pdf)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/07/ME103-4.4-G.-Ciccarelli.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME103-4.4-G.-Ciccarelli.epub)  
       
      Instructions: Please download the PDF file for Lectures 14-15 and
     read pages 97-100.  In this reading, you will be introduced to
@@ -277,13 +277,13 @@ id="4.3"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Unit 4 Assessment”**
     Link: The Saylor Foundation’s “[Unit 4
-    Assessment”](http://www.saylor.org/site/wp-content/uploads/2012/08/ME103-OC-Assessment-4-FINAL.pdf) (PDF)  
+    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME103-OC-Assessment-4-FINAL.pdf) (PDF)  
         
      Instructions: Please click on the link above and download the
     assessment.  Work through all problems and write down your answers.
      Read the instructions for each problem carefully.  Once you
     complete the assessment, compare your answers with the "[Guide To
-    Responding](http://www.saylor.org/site/wp-content/uploads/2012/08/ME103-OC-Assessment-4-GTR-FINAL.pdf)"
+    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME103-OC-Assessment-4-GTR-FINAL.pdf)"
     document (PDF).  This assessment will cover topics discussed in Unit
     4.
 
