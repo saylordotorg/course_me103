@@ -104,7 +104,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: North Carolina State University: Professor Boles’ Lecture
     Notes on Thermodynamics: [“Chapter 3: Energy Transer by Heat, Work
     and
-    Mass”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter3.pdf)
+    Mass”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter3.pdf)
     (PDF)  
         
      Instructions: Please click on “Study Guide for Chapter 3.”  Please
@@ -128,7 +128,7 @@ Upon successful completion of this unit, the student will be able to:
     Notes on Thermodynamics: “Chapter 4: Work and Heat”**
     Link: University of Notre Dame: Professor J. M. Powers’ Lecture
     Notes on Thermodynamics: [“Chapter 1: Introduction to
-    Thermodynamics”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103_Powers-Lecture-on-Thermodynamics.pdf) (PDF)  
+    Thermodynamics”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME103_Powers-Lecture-on-Thermodynamics.pdf) (PDF)  
       
      Instructions: Please read section 4.2 “Work.”  Go through example
     4.5 on page 83 carefully.  What is the work associated with
@@ -148,7 +148,7 @@ Upon successful completion of this unit, the student will be able to:
     and Heat”**
     Link: Queen’s University: Canada: Professor G. Ciccarelli’s Lecture
     Notes on Applied Thermodynamics: [“Lectures 3-5: Work, Energy and
-    Heat”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103-3.2.2_Ciccarcelli_Introduction-to-Thermodynamics_Lecture-3-5.pdf)
+    Heat”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME103-3.2.2_Ciccarcelli_Introduction-to-Thermodynamics_Lecture-3-5.pdf)
     (PDF)  
       
      Instructions: Please download the PDF file for Lecture 3-5 and read
@@ -169,7 +169,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: North Carolina State University: Professor Boles’ Lecture
     Notes on Thermodynamics: [“Chapter 3: Energy Transer by Heat, Work
     and
-    Mass”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter3.pdf)
+    Mass”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter3.pdf)
     (PDF)  
         
      Instructions: Please click on “Study Guide for Chapter 3.”  Please
@@ -204,14 +204,14 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundation’s “Unit 3 Assessment”**
     Link: The Saylor Foundation’s “[Unit 3
-    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME103-OC-Assessment-3-FINAL.pdf)”
+    Assessment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ME103-OC-Assessment-3-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above and download the
     assessment.  Work through all problems and write down your answers.
      Read the instructions for each problem carefully.  Once you
     complete the assessment, compare your answers with the "[Guide To
-    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME103-OC-Assessment-3-GTR-FINAL.pdf)"
+    Responding](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ME103-OC-Assessment-3-GTR-FINAL.pdf)"
     document (PDF).  This assessment will cover topics discussed in Unit
     3.
 

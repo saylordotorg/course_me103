@@ -89,7 +89,7 @@ id="5.1.1"></span> 
     Thermodynamics”**
     Link: North Carolina State University: Professor Boles’ Lecture
     Notes on Thermodynamics: [“Chapter 5: The Second Law of
-    Thermodynamics”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter5.pdf)
+    Thermodynamics”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter5.pdf)
     (PDF)  
         
      Instructions: Please click on “Study Guide for Chapter 5.”  Please
@@ -159,7 +159,7 @@ reservoirs?*
     Notes on Thermodynamics: “Chapter 6: Entropy”**
     Link: North Carolina State University: Professor Boles’ Lecture
     Notes on Thermodynamics: [“Chapter 6:
-    Entropy”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter6.pdf)
+    Entropy”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter6.pdf)
     (PDF)  
         
      Instructions: Please click on “Study Guide for Chapter 6 Part 1.” 
@@ -241,7 +241,7 @@ perpetual motion machine.*
     Thermodynamics”**
     Link: North Carolina State University: Professor Boles’ Lecture
     Notes on Thermodynamics: [“Chapter 6: The Second Law of
-    Thermodynamics”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter6.pdf) (PDF)  
+    Thermodynamics”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter6.pdf) (PDF)  
         
      Instructions: Please click on “Study Guide for Chapter 6 Part 1.” 
     Please read pages 6–22 to pages 6–40.  In this reading, you will
@@ -277,12 +277,12 @@ solids.*
     “Thermodynamics: Homework A – Set 6”**
     Link: University of South Florida's Dr. Carlos A. Smith’s
     [“Thermodynamics: Homework A – Set
-    6”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103-5.4.3_Assesment.pdf)
+    6”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME103-5.4.3_Assesment.pdf)
     (PDF)  
         
      Instructions: Please attempt all questions in the assessment.  You
     can find the answers
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103-5.4.3_Assesment_Answers.pdf)
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME103-5.4.3_Assesment_Answers.pdf)
     (PDF).  
         
      Terms of Use: This resource is used with the kind permission of Dr.
@@ -311,14 +311,14 @@ solids.*
 
 -   **Assessment: The Saylor Foundation’s “Unit 5 Assessment”**
     Link: The Saylor Foundation’s “[Unit 5
-    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME103-Assessment5-FINAL.pdf)”
+    Assessment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ME103-Assessment5-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above and download the
     assessment.  Work through all problems and write down your answers.
      Read the instructions for each problem carefully.  Once you
     complete the assessment, compare your answers with the "[Guide To
-    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME103-Assessment5-GTR-FINAL.pdf)"
+    Responding](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ME103-Assessment5-GTR-FINAL.pdf)"
     document (PDF).  This assessment will cover topics discussed in Unit
     5. 
 
