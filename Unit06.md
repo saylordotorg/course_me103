@@ -49,12 +49,12 @@ Upon successful completion of this unit, the student will be able to:
     Cycle”**
     Link: Queen’s University, Canada: Professor G. Ciccarelli’s Lecture
     Notes on Applied Thermodynamics: “[Lecture 24: Vapor Power
-    Cycle](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103-6.1_Ciccarcelli_Introduction-to-Thermodynamics_Lecture-24.pdf)”
+    Cycle](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME103-6.1_Ciccarcelli_Introduction-to-Thermodynamics_Lecture-24.pdf)”
     (PDF)  
       
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME103-6.1-G.-Ciccarelli.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME103-6.1-G.-Ciccarelli.epub)  
       
      Instructions: Please download the PDF file for Lecture 24 and read
     the entire document.  In this reading, you will take a look at power
@@ -73,7 +73,7 @@ Upon successful completion of this unit, the student will be able to:
     Notes on Thermodynamics: “Chapter 10: Cycles”**
     Link: University of Notre Dame: Professor J. M. Powers’ Lecture
     Notes on Thermodynamics: [“Chapter 1: Introduction to
-    Thermodynamics”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103_Powers-Lecture-on-Thermodynamics.pdf) (PDF)  
+    Thermodynamics”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME103_Powers-Lecture-on-Thermodynamics.pdf) (PDF)  
       
      Instructions: Please read section 10.1 (pages 41–46).  In this
     reading, you will learn how to evaluate a Rankine cycle.  Please
@@ -119,17 +119,17 @@ Upon successful completion of this unit, the student will be able to:
     Cycles”**
     Link: Queen’s University, Canada: Professor G. Ciccarelli’s Lecture
     Notes on Applied Thermodynamics: “Lectures
-    [25-26](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103-6.3_Ciccarcelli_Introduction-to-Thermodynamics_Lecture-25-26.pdf)
+    [25-26](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME103-6.3_Ciccarcelli_Introduction-to-Thermodynamics_Lecture-25-26.pdf)
     &
-    [27-28](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103-6.2_Ciccarcelli_Introduction-to-Thermodynamics_Lecture-27-28.pdf):
+    [27-28](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME103-6.2_Ciccarcelli_Introduction-to-Thermodynamics_Lecture-27-28.pdf):
     Gas Power Cycle” (PDF)  
       
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME103-6.2-G.-Ciccarelli.epub) (Lecture
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME103-6.2-G.-Ciccarelli.epub) (Lecture
     Notes 25-26)  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME103-6.2pt2-G.-Ciccarelli.epub) (Lecture
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME103-6.2pt2-G.-Ciccarelli.epub) (Lecture
     Notes 28-28)  
       
      Instructions: Please download the PDF files for Lectures 25-26 and
@@ -156,7 +156,7 @@ Upon successful completion of this unit, the student will be able to:
     Notes on Thermodynamics: “Chapter 8: Gas Power Cycles”**
     Link: North Carolina State University: Professor Boles’ Lecture
     Notes on Thermodynamics: [“Chapter 8: Gas Power
-    Cycles”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter8.pdf) (PDF)  
+    Cycles”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter8.pdf) (PDF)  
         
      Instructions: Please click on “Study Guide for Chapter 8.”  Please
     read the entire chapter.  You will learn how evaluate performance of
@@ -201,12 +201,12 @@ Upon successful completion of this unit, the student will be able to:
     Cycle”**
     Link: Queen’s University, Canada: Professor G. Ciccarelli’s Lecture
     Notes on Applied Thermodynamics: [“Lecture 29: Refrigeration
-    Cycle”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103-6.3_Ciccarcelli_Introduction-to-Thermodynamics_Lecture-29.pdf)
+    Cycle”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME103-6.3_Ciccarcelli_Introduction-to-Thermodynamics_Lecture-29.pdf)
     (PDF)  
       
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME103-6.3-G.-Ciccarelli.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ME103-6.3-G.-Ciccarelli.epub)  
       
      Instructions: Please download the PDF file for Lecture 29 and read
     the entire document.  In this reading, you will learn about the
@@ -223,12 +223,12 @@ Upon successful completion of this unit, the student will be able to:
     “Thermodynamics: Homework A – Set 7”**
     Link: University of South Florida's Dr. Carlos A. Smith’s
     [“Thermodynamics: Homework A – Set
-    7”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103-6.3_Assesment.pdf)
+    7”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME103-6.3_Assesment.pdf)
     (PDF)  
         
      Instructions: Please attempt all questions in the assessment.  You
     can find the answers
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103-6.3_Assesment_Answers.pdf)
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME103-6.3_Assesment_Answers.pdf)
     (PDF).  This assessment will cover all topics discussed in Unit 6.  
         
      Terms of Use: This resource is used with the kind permission of Dr.
@@ -240,7 +240,7 @@ Upon successful completion of this unit, the student will be able to:
     Notes on Thermodynamics: “Chapter 10: Refrigeration Cycles”**
     Link: North Carolina State University: Professor Boles’ Lecture
     Notes on Thermodynamics: [“Chapter 10: Refrigeration
-    Cycles”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter10.pdf)
+    Cycles”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter10.pdf)
     (PDF)  
         
      Instructions: Please click on “Study Guide for Chapter 10.”  Please
@@ -272,14 +272,14 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Assessment: The Saylor Foundation’s “Unit 6 Assessment”**
     Link: The Saylor Foundation’s “[Unit 6
-    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME103-Assessment6-FINAL.pdf)”
+    Assessment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ME103-Assessment6-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above and download the
     assessment.  Work through all problems and write down your answers.
      Read the instructions for each problem carefully.  Once you
     complete the assessment, compare your answers with the "[Guide To
-    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME103-Assessment-6-GTR-FINAL.pdf)"
+    Responding](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ME103-Assessment-6-GTR-FINAL.pdf)"
     document (PDF).  This assessment will cover topics discussed in Unit
     6.
 

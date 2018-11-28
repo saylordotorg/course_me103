@@ -85,7 +85,7 @@ Upon successful completion of this unit, the student will be able to:
     Substances”**
     Link: North Carolina State University: Professor Boles’ Lecture
     Notes on Thermodynamics: [“Chapter 2: Properties of Pure
-    Substances”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter2.pdf)
+    Substances”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter2.pdf)
     (PDF)  
         
      Instructions: Please click on “Study Guide for Chapter 2.”  Please
@@ -111,7 +111,7 @@ between different states of water on Figure 2-11.*
     Substances”**
     Link: University of Notre Dame: Professor J. M. Powers’ Lecture
     Notes on Thermodynamics: [“Chapter 1: Introduction to
-    Thermodynamics”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103_Powers-Lecture-on-Thermodynamics.pdf) (PDF)  
+    Thermodynamics”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME103_Powers-Lecture-on-Thermodynamics.pdf) (PDF)  
       
      Instructions: Please read section 3.2 (pages 41–46).  The reading
     will introduce you to phase diagram of a pure substance.  
@@ -144,7 +144,7 @@ temperature for water.*
     Substances”**
     Link: North Carolina State University: Professor Boles’ Lecture
     Notes on Thermodynamics: [“Chapter 2: Properties of Pure
-    Substances”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter2.pdf)
+    Substances”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter2.pdf)
     (PDF)  
         
      Instructions: Please click on “Study Guide for Chapter 2.”  Please
@@ -163,11 +163,11 @@ temperature for water.*
     Substances”**
     Link: Dr. Israel Urieli’s Lecture Notes on Engineering
     Thermodynamics – A Graphical Approach: [“Chapter 2: Pure
-    Substances”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103-2.3_Israel-Urieli-Chapter-2a-Phase-Change-Property-Tables-and-Diagrams.pdf) (PDF)   
+    Substances”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME103-2.3_Israel-Urieli-Chapter-2a-Phase-Change-Property-Tables-and-Diagrams.pdf) (PDF)   
       
      Instructions: Please click on the link to Chapter 2*a:* “[Phase
     Change, Property Tables, and
-    Diagrams](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103-2.3_Israel-Urieli-Chapter-2a-Phase-Change-Property-Tables-and-Diagrams.pdf)”
+    Diagrams](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME103-2.3_Israel-Urieli-Chapter-2a-Phase-Change-Property-Tables-and-Diagrams.pdf)”
     and read the entire document.  What is a critical point?  What are
     the most common methods to show properties of pure substances?  
       
@@ -233,7 +233,7 @@ and A-7 carefully. *
     Substances”**
     Link: North Carolina State University: Professor Boles’ Lecture
     Notes on Thermodynamics: [“Chapter 2: Properties of Pure
-    Substances”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter2.pdf)
+    Substances”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter2.pdf)
     (PDF)  
         
      Instructions: Please click on “Study Guide for Chapter 2.”   Please
@@ -248,7 +248,7 @@ and A-7 carefully. *
     Substances”**
     Link: University of Notre Dame: Professor J. M. Powers’ Lecture
     Notes on Thermodynamics: [“Chapter 1: Introduction to
-    Thermodynamics”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103_Powers-Lecture-on-Thermodynamics.pdf) (PDF)  
+    Thermodynamics”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME103_Powers-Lecture-on-Thermodynamics.pdf) (PDF)  
       
      Instructions: Please browse through section 3.4.  The reading will
     provide you with some historical background on the equations of
@@ -270,7 +270,7 @@ and A-7 carefully. *
     Substances”**
     Link: North Carolina State University: Professor Boles’ Lecture
     Notes on Thermodynamics: [“Chapter 2: Properties of Pure
-    Substances”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter2.pdf)
+    Substances”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter2.pdf)
     (PDF)  
         
      Instructions: Please click on “Study Guide for Chapter 2.”  Please
@@ -296,7 +296,7 @@ and A-7 carefully. *
     Substances”**
     Link: North Carolina State University: Professor Boles’ Lecture
     Notes on Thermodynamics: [“Chapter 2: Properties of Pure
-    Substances”](https://resources.saylor.org/archived/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter2.pdf)
+    Substances”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/08/BolesLectureNotesThermodynamicsChapter2.pdf)
     (PDF)  
         
      Instructions: Please click on “Study Guide for Chapter 2.”  Please
@@ -312,7 +312,7 @@ and A-7 carefully. *
     Substances”**
     Link: University of Notre Dame: Professor J. M. Powers’ Lecture
     Notes on Thermodynamics: [“Chapter 1: Introduction to
-    Thermodynamics”](https://resources.saylor.org/archived/wp-content/uploads/2013/01/ME103_Powers-Lecture-on-Thermodynamics.pdf) (PDF)  
+    Thermodynamics”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/01/ME103_Powers-Lecture-on-Thermodynamics.pdf) (PDF)  
       
      Instructions: Please read pages 57-59.  Calculate the critical
     volume, temperature and pressure for a van der Waals gas.  Get
@@ -351,14 +351,14 @@ and A-7 carefully. *
 
 -   **Assessment: The Saylor Foundation’s “Unit 2 Assessment”**
     Link: The Saylor Foundation’s “[Unit 2
-    Assessment](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME103-OC-Assessment-2-FINAL.pdf)”
+    Assessment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ME103-OC-Assessment-2-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above and download the
     assessment.  Work through all problems and write down your answers.
      Read the instructions for each problem carefully.  Once you
     complete the assessment, compare your answers with the "[Guide To
-    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/08/ME103-OC-Assessment-2-GTR-FINAL.pdf)"
+    Responding](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/ME103-OC-Assessment-2-GTR-FINAL.pdf)"
     document (PDF).  This assessment will cover all topics discussed in
     Unit 2.
 
